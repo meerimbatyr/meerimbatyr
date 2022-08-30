@@ -21,6 +21,7 @@ I am also an open-source enthusiast who constantly learns from open-source commu
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500"/>
 </div>
+
 
