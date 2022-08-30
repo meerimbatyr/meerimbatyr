@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMeerimBatyr
-https://img.shields.io/badge/LinkedIn-blue
+<div id="badges">
+  <a href="https://www.linkedin.com/in/meerim-batyrkanova-3494a3184/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://twitter.com/MeerimBatyr"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+</div>
+
 
 
 Hi I am  Meerim Batyrkanova, a passionate self-taught fron-end developer currently based in Qatar.  I take great care in the experience, architecture, and code quality of the things I build.
