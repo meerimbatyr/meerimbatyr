@@ -33,11 +33,9 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan based in Qatar.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- 🌱 I’m currently learning React JS. Algorithms and Data Structure.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I love to watch read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mbatyr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meerim-batyrkanova-3494a3184/)
 
