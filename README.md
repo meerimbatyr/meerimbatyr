@@ -19,7 +19,7 @@ Hi I am  Meerim Batyrkanova, a passionate self-taught fron-end developer current
 
 I am also an open-source enthusiast who constantly learns from open-source community, which I truly admire and appreciate the collaboration and knowledge-sharing happening there.
 
-
+[
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div>](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
