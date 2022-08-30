@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan based in Qatar.
+I am a Front-End Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan based in Qatar.
 
 - 🌱 I’m currently learning React JS. Algorithms and Data Structure.
 
