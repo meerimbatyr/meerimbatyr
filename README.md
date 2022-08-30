@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **meerimbatyr/meerimbatyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi I am  Meerim Batyrkanova, a passionate self-taught fron-end developer currently based in Qatar.  I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast who constantly learns from open-source community, which I truly admire and appreciate the collaboration and knowledge-sharing happening there.
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
