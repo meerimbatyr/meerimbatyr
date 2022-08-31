@@ -1,4 +1,4 @@
-### Hi there 👋 
+### HI THERE 👋 
 
 <!--
 **meerimbatyr/meerimbatyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,7 @@ I am a Front-End Developer Student <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I love to watch read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mbatyr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meerim-batyrkanova-3494a3184/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-meerimbatyrkanova-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meerim-batyrkanova-3494a3184/)
 
 ---
 
